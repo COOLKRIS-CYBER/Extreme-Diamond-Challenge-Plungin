@@ -98,12 +98,13 @@
 
 ## 📞 ติดต่อ
 
-**Project Link**: [https://github.com/yourusername/DiamondxTiktok](https://github.com/COOLKRIS-CYBER/DiamondxTiktok )
+**Project Link**: [https://github.com/COOLKRIS-CYBER/Extreme-Diamond-Challenge-Plungin](https://github.com/COOLKRIS-CYBER/Extreme-Diamond-Challenge-Plungin)
 
 **Discord**: [Join our Discord](https://discord.gg/ZzvsnEDu)
 
 ---
 
 ⭐ **If you like this project, please give it a star!**
+
 
 
